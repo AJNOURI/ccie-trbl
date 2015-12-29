@@ -1,4 +1,0 @@
-server: "http://127.0.0.1:7474"
-directory: "/db/data/"
-login: "neo4j"
-password: "12405ad4822509a77e495532947ebfbd"
