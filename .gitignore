@@ -60,7 +60,7 @@ target/
 *.pass
 
 # ipython
-ipynb
+*.ipynb
 .ipynb_checkpoints
 
 # this file itself
